@@ -1,4 +1,4 @@
-//MINI PROJETO: PAR OU IMPAR
+//MINI PROJETO: PAR OU IMPAR.
 //Receber uma quantidade de valores para avaliar
 //Função exibe se cada valor é par ou impar
 
