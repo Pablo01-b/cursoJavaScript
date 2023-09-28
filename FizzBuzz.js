@@ -5,7 +5,7 @@
 //Não é é divisível por 3 ou 5 = entrada
 //Se o valor não é um número = "Não é um número"
 
-const resultado = fizzBuzz(15);
+const resultado = fizzBuzz(3);
 console.log(resultado);
 
 function fizzBuzz(entrada){
