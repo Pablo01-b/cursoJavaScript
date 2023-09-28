@@ -1,4 +1,4 @@
-//MINI PROJETO 01: MEDIDOR DE VELOCIDADE.
+//MINI PROJETO: MEDIDOR DE VELOCIDADE.
 //REQUISITOS:
 //1-A velocidade máxima permitida é de até 70 km/h
 //2-A cada 5km acima do limite você ganha 1 ponto na carteira
