@@ -1,4 +1,4 @@
-//MINI PROJETO 02: FIZZBUZZ
+//MINI PROJETO: FIZZBUZZ
 //Divisível por 3: Fizz
 //Divisível por 5: Buzz
 //Divisível por 3 e 5: FizzBuzz
