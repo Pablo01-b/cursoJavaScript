@@ -2,14 +2,15 @@
 //criar um método para ler propriedades do tipo string que estão nesse objeto
 //exibir somente as propriedades do tipo string que estão nesse objeto
 
-const filme = {
-    titulo: 'Vingadores',
+const notebook = {
+    modelo: 'Acer',
     ano: 2018,
-    diretor: 'Robin',
-    personagem: 'Thor',
+    processador: 'Intel core i5-10400',
+    memoriaRam: '16 Gb DDR 4',
+    armazenamento: 500
 }
 
-exibirAtributos(filme);
+exibirAtributos(notebook);
 function exibirAtributos(objeto){
     for(atributos in objeto){
         if(typeof objeto[atributos] === 'string'){
