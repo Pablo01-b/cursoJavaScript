@@ -4,7 +4,7 @@
 
 const notebook = {
     modelo: 'Acer',
-    ano: 2018,
+    ano: 2020,
     processador: 'Intel core i5-10400',
     memoriaRam: '16 Gb DDR 4',
     armazenamento: 500
