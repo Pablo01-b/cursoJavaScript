@@ -14,3 +14,11 @@ function criarCelular(marcaCelular,tamanhoTela,capacidadeBateria){
 
 const celular1 = criarCelular('SmartPhone', 5.5, 5000);
 console.log(celular1);
+
+const novoObjeto = Object.assign({
+    bateria : 5000
+});
+console.log(novoObjeto);
+
+const objeto2 = {...criarCelular};
+console.log(objeto2);
