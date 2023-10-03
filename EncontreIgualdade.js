@@ -1,7 +1,7 @@
 // MINI PROJETO: ENCONTRE A IGUALDADE ENTRE OBJETOS
 
-// criar 2 objetos endereco
-// criar uma função para verificar se são iguais em propriedades
+//criar 2 objetos endereco
+//criar uma função para verificar se são iguais em propriedades
 //criar uma função para verificar se são iguais no endereço de memória
 
 function Endereco(rua,cidade,cep){
