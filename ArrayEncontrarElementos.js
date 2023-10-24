@@ -7,5 +7,20 @@ console.log(numeros.lastIndexOf(1)); //retorna a ultima ocorrência do número i
 /*const numeros = [1,2,3,4,5,6,];
 console.log(numeros.indexOf(2) !== -1);*/
 
-const numeros = [1,2,3,4,5,6,7,8];
-console.log(numeros.includes(9)); //retorna se o array tem o elemento informado.
+/*const numeros = [1,2,3,4,5,6,7,8];
+console.log(numeros.includes(9)); //retorna se o array tem o elemento informado.*/
+
+//===========================================================================================================
+// ENCONTRANDO ELEMENTOS (TIPOS REFERÊNCIA)
+
+const marcas = [
+    {id: 1, nome: 'a'},
+    {id: 2, nome: 'b'}
+];
+
+const marca = marcas.find(function(marca){
+    return marca.nome === 'a';
+});
+console.log(marca);
+
+
